@@ -237,7 +237,7 @@ section {
 .home .profession-box .profession {
     position: absolute;
     left: 0;
-    display: flex;
+    display: none;
     align-items: center;
     flex-direction: column;
     color: var(--main-color);
@@ -939,3 +939,4 @@ span {
 img {
     border-radius: 20px;
 }
+
